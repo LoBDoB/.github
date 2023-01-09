@@ -1,10 +1,17 @@
 LobbyDobby - MetaverCity Lobby
 =============
+<br>
 
 ## Co-Work
 - Notion : https://lopsided-gardenia-d9c.notion.site/86d934078f7442e4946b5e38eea4da8a?v=baea7b68cb8043c895e92289a992a31b
 - Miro : https://miro.com/app/board/uXjVP1uO8j0=/
 <br>
+
+## Repositories
+- Unity Client : https://github.com/LoBDoB/lobbydobby-unity
+- AI Recommender System : https://github.com/LoBDoB/lobbydobby-ai
+- Modeling : 
+<br><br>
 
 ## 🧑‍ 팀원 소개
 | [최규형](https://github.com/dancefirst) | [오현승](https://github.com/OHxhxs) | [안주현](https://github.com/vvavava) | [이승민](https://github.com/leebach98) | [김지훈](https://github.com/MightyChipmunk) | [김태현](https://github.com/ktaehyun)

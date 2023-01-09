@@ -3,14 +3,14 @@ LobbyDobby - MetaverCity Lobby
 <br>
 
 ## Co-Work
-- Notion : https://lopsided-gardenia-d9c.notion.site/86d934078f7442e4946b5e38eea4da8a?v=baea7b68cb8043c895e92289a992a31b
-- Miro : https://miro.com/app/board/uXjVP1uO8j0=/
+- [Notion](https://lopsided-gardenia-d9c.notion.site/86d934078f7442e4946b5e38eea4da8a?v=baea7b68cb8043c895e92289a992a31b)
+- [Miro](https://miro.com/app/board/uXjVP1uO8j0=/)
 <br>
 
 ## Repositories
-- Unity Client : https://github.com/LoBDoB/lobbydobby-unity
-- AI Recommender System : https://github.com/LoBDoB/lobbydobby-ai
-- Modeling : 
+- [Unity Client](https://github.com/LoBDoB/lobbydobby-unity)
+- [AI Recommender System](https://github.com/LoBDoB/lobbydobby-ai)
+- Modeling
 <br><br>
 
 ## 🧑‍ 팀원 소개

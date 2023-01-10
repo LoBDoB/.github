@@ -11,7 +11,7 @@ LobbyDobby - MetaverCity Lobby
 - [Unity Client](https://github.com/LoBDoB/lobbydobby-unity)
 - [AI Recommender System](https://github.com/LoBDoB/lobbydobby-ai)
 - Modeling
-<br><br>
+<br>
 
 ## 🧑‍ 팀원 소개
 | [최규형](https://github.com/dancefirst) | [오현승](https://github.com/OHxhxs) | [안주현](https://github.com/vvavava) | [이승민](https://github.com/leebach98) | [김지훈](https://github.com/MightyChipmunk) | [김태현](https://github.com/ktaehyun)

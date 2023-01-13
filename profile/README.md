@@ -8,7 +8,7 @@ LobbyDobby - MetaverCity Lobby
 <br>
 
 ## Repositories
-- [Unity Client / Modeling](https://github.com/LoBDoB/lobbydobby-unity)
+- [Unity Client & Modeling](https://github.com/LoBDoB/lobbydobby-unity)
 - [AI Recommender System](https://github.com/LoBDoB/lobbydobby-ai)
 <br>
 

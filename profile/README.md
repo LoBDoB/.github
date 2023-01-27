@@ -1,6 +1,9 @@
-LobbyDobby - MetaverCity Lobby
+LobbyDobby - Open Metaversity Lobby
 =============
 <br>
+
+<b>1차 시연 영상</b><br>
+https://drive.google.com/file/d/1J1tkx9a6LI1Ko2Z1Wo5VzGhu9ttGE6zE/view?usp=sharing
 
 ## Co-work
 - [Notion](https://lopsided-gardenia-d9c.notion.site/86d934078f7442e4946b5e38eea4da8a?v=baea7b68cb8043c895e92289a992a31b)

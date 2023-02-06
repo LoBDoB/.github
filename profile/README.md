@@ -13,7 +13,8 @@ https://drive.google.com/file/d/1J1tkx9a6LI1Ko2Z1Wo5VzGhu9ttGE6zE/view?usp=shari
 
 ## Repositories
 - [Unity Client & Art Modeling](https://github.com/LoBDoB/lobbydobby-unity)
-- [AI Recommender System](https://github.com/LoBDoB/lobbydobby-ai)
+- [Recommender System](https://github.com/LoBDoB/lobbydobby-ai_rs)
+- [Searching Engine](https://github.com/Seogang-LobbyDobby/lobbydobby-ai_searching)
 <br>
 
 ## 🧑‍ 팀원 소개

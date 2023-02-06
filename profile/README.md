@@ -8,6 +8,7 @@ https://drive.google.com/file/d/1J1tkx9a6LI1Ko2Z1Wo5VzGhu9ttGE6zE/view?usp=shari
 ## Co-work
 - [Notion](https://lopsided-gardenia-d9c.notion.site/86d934078f7442e4946b5e38eea4da8a?v=baea7b68cb8043c895e92289a992a31b)
 - [Miro](https://miro.com/app/board/uXjVP1uO8j0=/)
+- [Figma](https://www.figma.com/file/pAtKUvHxDAek0uyV3Cv6ne/%EB%A9%94%ED%83%80%EB%B2%84%EC%8B%9C%ED%8B%B0-%EA%B4%91%EC%9E%A5?node-id=0%3A1&t=MsNTOROeQKm2UpEo-0)
 <br>
 
 ## Repositories

@@ -1,10 +1,10 @@
-LobbyDobby - Open Metaversity Lobby
+LobbyDobby - Open Metaversity
 =============
-<br>
+대학교 메타버스 플랫폼 서비스, Open Metaversity<br>
+
+<b>1차 진행기간</b> : 2022.12.30 ~ 2023.02.23 <br>
 
 <b>1차 시연 영상</b><br>
-https://drive.google.com/file/d/1J1tkx9a6LI1Ko2Z1Wo5VzGhu9ttGE6zE/view?usp=sharing<br>
-<b>2차 시연 영상</b><br>
 https://drive.google.com/file/d/1Wo0ca73v2u1fwT9YQcDOMSnNYx3Fp45e/view?usp=sharing
 
 ## Co-work

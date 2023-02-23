@@ -1,6 +1,6 @@
 LobbyDobby - Open Metaversity
 =============
-### 대학교 메타버스 플랫폼 서비스, Open Metaversity<br>
+### 대학교 메타버스 플랫폼, Open Metaversity<br>
 
 <b>1차 진행기간</b> : 2022.12.30 ~ 2023.02.23<br>
 

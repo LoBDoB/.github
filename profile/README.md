@@ -3,7 +3,7 @@ LobbyDobby - Open Metaversity Lobby
 <br>
 
 <b>1차 시연 영상</b><br>
-https://drive.google.com/file/d/1J1tkx9a6LI1Ko2Z1Wo5VzGhu9ttGE6zE/view?usp=sharing
+https://drive.google.com/file/d/1J1tkx9a6LI1Ko2Z1Wo5VzGhu9ttGE6zE/view?usp=sharing<br>
 <b>2차 시연 영상</b><br>
 https://drive.google.com/file/d/1Wo0ca73v2u1fwT9YQcDOMSnNYx3Fp45e/view?usp=sharing
 

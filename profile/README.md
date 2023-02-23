@@ -4,6 +4,8 @@ LobbyDobby - Open Metaversity Lobby
 
 <b>1차 시연 영상</b><br>
 https://drive.google.com/file/d/1J1tkx9a6LI1Ko2Z1Wo5VzGhu9ttGE6zE/view?usp=sharing
+<b>2차 시연 영상</b><br>
+https://drive.google.com/file/d/1Wo0ca73v2u1fwT9YQcDOMSnNYx3Fp45e/view?usp=sharing
 
 ## Co-work
 - [Notion](https://lopsided-gardenia-d9c.notion.site/86d934078f7442e4946b5e38eea4da8a?v=baea7b68cb8043c895e92289a992a31b)
